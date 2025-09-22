@@ -4,11 +4,11 @@
 A professional, responsive, and multi-page website built for a fictional law firm.  
 This project demonstrates HTML5, CSS3, and JavaScript skills, including responsive layouts, navigation menus, card-based services, and a gallery.  
 
-Deployed on: **[Insert Live URL once hosted]**
+Deployed on: (https://m-yobby.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/)
 
 ---
 
-## 📌 Features
+## Features
 
 - **Multi-page structure**:
   - Home
@@ -71,7 +71,7 @@ ABC-Law-Firm/
 
 This project can be hosted on:
 
-- **GitHub Pages** 
+- GitHub Pages
 
 ---
 
@@ -79,7 +79,7 @@ This project can be hosted on:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/abc-law-firm.git
+   git clone (https://github.com/M-Yobby/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl.git)
 ````
 
 2. Open `index.html` in your browser.
@@ -103,5 +103,5 @@ This project can be hosted on:
 **ABC Law Firm Website** project created as part of a final assignment on building, organizing, and deploying a multi-page responsive website.
 
 * Developed by: *\Meshack Yobby*
-* GitHub: [your-username](https://github.com/your-username)
+* GitHub: M-Yobby (https://github.com/M-Yobby)
 
